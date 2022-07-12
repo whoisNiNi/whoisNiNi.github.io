@@ -1,8 +1,9 @@
-http://whoispower.cn/2022/07/01/English-Notes%201/
+http://whoispower.cn/2022/07/12/JavaAlgorithm/
+http://whoispower.cn/2022/07/07/Mysql-note/
 http://whoispower.cn/2022/07/01/English-Notes%202/
+http://whoispower.cn/2022/07/01/English-Notes%201/
 http://whoispower.cn/2022/07/05/Linux-Vim/
 http://whoispower.cn/2022/07/05/JDBC_tool_Class/
-http://whoispower.cn/2022/07/07/Mysql-note/
 http://whoispower.cn/2022/07/07/XML-note/
 http://whoispower.cn/tags/index.html
 http://whoispower.cn/about/index.html
@@ -13,7 +14,9 @@ http://whoispower.cn/tags/note/
 http://whoispower.cn/tags/java/
 http://whoispower.cn/tags/Linux/
 http://whoispower.cn/tags/XML/
+http://whoispower.cn/tags/Mysql/
 http://whoispower.cn/categories/English/
 http://whoispower.cn/categories/JavaWeb/
 http://whoispower.cn/categories/Linux/
 http://whoispower.cn/categories/SQL/
+http://whoispower.cn/categories/Java-algorithm/
