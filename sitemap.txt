@@ -13,8 +13,8 @@ http://whoispower.cn/
 http://whoispower.cn/tags/note/
 http://whoispower.cn/tags/java/
 http://whoispower.cn/tags/Linux/
-http://whoispower.cn/tags/XML/
 http://whoispower.cn/tags/Mysql/
+http://whoispower.cn/tags/XML/
 http://whoispower.cn/categories/English/
 http://whoispower.cn/categories/JavaWeb/
 http://whoispower.cn/categories/Java-algorithm/
