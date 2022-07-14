@@ -2,7 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://whoispower.cn/2022/07/01/English-Notes%202/</loc>
+    <loc>http://whoispower.cn/2022/07/05/JDBC_tool_Class/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/2022/07/05/JDBC_SpringTemplate/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/2022/07/12/JavaAlgorithm/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/2022/07/05/Linux-Vim/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/2022/07/07/Mysql-note/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/2022/07/07/XML-note/</loc>
+    
+    <lastmod>2022-07-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/2022/07/14/English-Word/</loc>
     
     <lastmod>2022-07-14</lastmod>
     
@@ -20,45 +74,9 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/2022/07/12/JavaAlgorithm/</loc>
+    <loc>http://whoispower.cn/2022/07/01/English-Notes%202/</loc>
     
-    <lastmod>2022-07-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://whoispower.cn/2022/07/07/Mysql-note/</loc>
-    
-    <lastmod>2022-07-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://whoispower.cn/2022/07/05/Linux-Vim/</loc>
-    
-    <lastmod>2022-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://whoispower.cn/2022/07/05/JDBC_tool_Class/</loc>
-    
-    <lastmod>2022-07-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://whoispower.cn/2022/07/07/XML-note/</loc>
-    
-    <lastmod>2022-07-10</lastmod>
+    <lastmod>2022-07-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -91,15 +109,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://whoispower.cn/2022/07/05/JDBC_SpringTemplate/</loc>
-    
-    <lastmod>2022-07-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://whoispower.cn/</loc>
@@ -117,6 +126,13 @@
   </url>
   
   <url>
+    <loc>http://whoispower.cn/tags/Word/</loc>
+    <lastmod>2022-07-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://whoispower.cn/tags/java/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -124,14 +140,14 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/Linux/</loc>
+    <loc>http://whoispower.cn/tags/Mysql/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/Mysql/</loc>
+    <loc>http://whoispower.cn/tags/Linux/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -161,7 +177,7 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/categories/Linux/</loc>
+    <loc>http://whoispower.cn/categories/Java-algorithm/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -175,7 +191,7 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/categories/Java-algorithm/</loc>
+    <loc>http://whoispower.cn/categories/Linux/</loc>
     <lastmod>2022-07-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
