@@ -17,6 +17,6 @@ http://whoispower.cn/tags/Mysql/
 http://whoispower.cn/tags/XML/
 http://whoispower.cn/categories/English/
 http://whoispower.cn/categories/JavaWeb/
-http://whoispower.cn/categories/Java-algorithm/
 http://whoispower.cn/categories/Linux/
 http://whoispower.cn/categories/SQL/
+http://whoispower.cn/categories/Java-algorithm/
