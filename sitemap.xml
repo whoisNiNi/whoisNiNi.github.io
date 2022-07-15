@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://whoispower.cn/2022/07/12/JavaAlgorithm/</loc>
+    <loc>http://whoispower.cn/2022/07/14/English-Word/</loc>
     
     <lastmod>2022-07-15</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/2022/07/14/English-Word/</loc>
+    <loc>http://whoispower.cn/2022/07/12/JavaAlgorithm/</loc>
     
     <lastmod>2022-07-15</lastmod>
     
@@ -126,14 +126,14 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/java/</loc>
+    <loc>http://whoispower.cn/tags/Word/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/Word/</loc>
+    <loc>http://whoispower.cn/tags/java/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
