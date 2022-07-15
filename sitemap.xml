@@ -119,13 +119,6 @@
 
   
   <url>
-    <loc>http://whoispower.cn/tags/java/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://whoispower.cn/tags/note/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,6 +127,20 @@
   
   <url>
     <loc>http://whoispower.cn/tags/Word/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/tags/java/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/tags/Linux/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -154,13 +161,6 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/Linux/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://whoispower.cn/tags/XML/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,6 +170,13 @@
 
   
   <url>
+    <loc>http://whoispower.cn/categories/English/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://whoispower.cn/categories/JavaWeb/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -177,7 +184,7 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/categories/English/</loc>
+    <loc>http://whoispower.cn/categories/Linux/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -192,13 +199,6 @@
   
   <url>
     <loc>http://whoispower.cn/categories/SQL/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://whoispower.cn/categories/Linux/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
