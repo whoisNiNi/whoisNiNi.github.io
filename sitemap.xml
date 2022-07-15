@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://whoispower.cn/2022/07/12/JavaAlgorithm/</loc>
+    
+    <lastmod>2022-07-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://whoispower.cn/2022/07/14/English-Word/</loc>
     
     <lastmod>2022-07-15</lastmod>
@@ -74,15 +83,6 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/2022/07/12/JavaAlgorithm/</loc>
-    
-    <lastmod>2022-07-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://whoispower.cn/tags/index.html</loc>
     
     <lastmod>2022-07-09</lastmod>
@@ -119,13 +119,6 @@
 
   
   <url>
-    <loc>http://whoispower.cn/tags/Word/</loc>
-    <lastmod>2022-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://whoispower.cn/tags/note/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,6 +127,13 @@
   
   <url>
     <loc>http://whoispower.cn/tags/java/</loc>
+    <lastmod>2022-07-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/tags/Word/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -154,14 +154,14 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/Mysql/</loc>
+    <loc>http://whoispower.cn/tags/XML/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/XML/</loc>
+    <loc>http://whoispower.cn/tags/Mysql/</loc>
     <lastmod>2022-07-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
