@@ -128,13 +128,6 @@
 
   
   <url>
-    <loc>http://whoispower.cn/tags/Word/</loc>
-    <lastmod>2022-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://whoispower.cn/tags/note/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -149,7 +142,7 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/Java/</loc>
+    <loc>http://whoispower.cn/tags/Word/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -163,14 +156,21 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/Mysql/</loc>
+    <loc>http://whoispower.cn/tags/XML/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/XML/</loc>
+    <loc>http://whoispower.cn/tags/Java/</loc>
+    <lastmod>2022-07-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/tags/Mysql/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -193,14 +193,14 @@
   </url>
   
   <url>
-    <loc>http://whoispower.cn/categories/Java-algorithm/</loc>
+    <loc>http://whoispower.cn/categories/Linux/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://whoispower.cn/categories/Linux/</loc>
+    <loc>http://whoispower.cn/categories/Java-algorithm/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
