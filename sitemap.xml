@@ -4,7 +4,25 @@
   <url>
     <loc>http://whoispower.cn/about/index.html</loc>
     
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/2022/07/07/XML-note/</loc>
+    
+    <lastmod>2022-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://whoispower.cn/2022/07/16/Bootstrap/</loc>
+    
+    <lastmod>2022-07-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +31,7 @@
   <url>
     <loc>http://whoispower.cn/2022/07/12/JavaAlgorithm/</loc>
     
-    <lastmod>2022-07-15</lastmod>
+    <lastmod>2022-07-16</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -39,15 +57,6 @@
   
   <url>
     <loc>http://whoispower.cn/2022/07/01/English-Notes%201/</loc>
-    
-    <lastmod>2022-07-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://whoispower.cn/2022/07/07/XML-note/</loc>
     
     <lastmod>2022-07-15</lastmod>
     

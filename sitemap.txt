@@ -1,9 +1,10 @@
 http://whoispower.cn/about/index.html
+http://whoispower.cn/2022/07/07/XML-note/
+http://whoispower.cn/2022/07/16/Bootstrap/
 http://whoispower.cn/2022/07/12/JavaAlgorithm/
 http://whoispower.cn/2022/07/14/English-Word/
 http://whoispower.cn/2022/07/01/English-Notes%202/
 http://whoispower.cn/2022/07/01/English-Notes%201/
-http://whoispower.cn/2022/07/07/XML-note/
 http://whoispower.cn/2022/07/07/Mysql-note/
 http://whoispower.cn/2022/07/05/Linux-Vim/
 http://whoispower.cn/2022/07/05/JDBC_tool_Class/
