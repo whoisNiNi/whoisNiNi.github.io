@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>http://whoispower.cn/2022/07/14/English-Word/</loc>
+    
+    <lastmod>2022-07-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://whoispower.cn/2022/07/07/XML-note/</loc>
     
     <lastmod>2022-07-16</lastmod>
@@ -32,15 +41,6 @@
     <loc>http://whoispower.cn/2022/07/12/JavaAlgorithm/</loc>
     
     <lastmod>2022-07-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://whoispower.cn/2022/07/14/English-Word/</loc>
-    
-    <lastmod>2022-07-15</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -128,14 +128,14 @@
 
   
   <url>
-    <loc>http://whoispower.cn/tags/note/</loc>
+    <loc>http://whoispower.cn/tags/Word/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://whoispower.cn/tags/Word/</loc>
+    <loc>http://whoispower.cn/tags/note/</loc>
     <lastmod>2022-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
